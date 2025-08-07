@@ -1,6 +1,6 @@
 str = 'geeks de pruebea de práctica de código'
 def rev_sentence(sentence):
-    words = sentence.split('')
+    words = sentence.split(' ')
     reverse_sentence = ' '.join(reversed(words))
     return reverse_sentence
 if __name__ == "_main_":
