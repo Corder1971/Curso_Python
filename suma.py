@@ -1,6 +1,7 @@
-def suma(a, b):
-    return a + b
-suma(2, 3)
-print(suma(2, 3))
+def suma(a, b): # Definimos la función suma
+    return a + b # "Ruturn" suma de a y b 
+x= suma(2, 3) # Guardamos el resultadado en x
+print(x)
+
 
 
