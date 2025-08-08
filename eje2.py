@@ -6,3 +6,4 @@ def rev_sentence(sentence):
 if __name__ == "_main_":
     input = 'geeks quiz practice code'
     print (rev_sentence(input))
+    
