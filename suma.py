@@ -4,6 +4,3 @@ def suma(a, b): # Definimos la función suma
 x= suma(5.7, 4.0) # Función con floats 
 # x= suma('Me gusta', 'python') # Función con strings
 print(x)
-
-
-
